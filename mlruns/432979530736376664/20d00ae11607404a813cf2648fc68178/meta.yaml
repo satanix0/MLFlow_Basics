@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/Downloads/MLFlow_Basics/mlruns/432979530736376664/20d00ae11607404a813cf2648fc68178/artifacts
+end_time: 1736273474177
+entry_point_name: ''
+experiment_id: '432979530736376664'
+lifecycle_stage: active
+run_id: 20d00ae11607404a813cf2648fc68178
+run_name: crawling-stork-455
+run_uuid: 20d00ae11607404a813cf2648fc68178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736273466516
+status: 3
+tags: []
+user_id: Piyush

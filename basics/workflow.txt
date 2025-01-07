@@ -1,0 +1,24 @@
+## Getting started with MLFlow
+1> run pip install MLFlow
+2> run mlflow ui
+3> run file1.py
+    - opens mkflow dashboard in the local server
+    - here you can see all the experiments and runs
+
+## Setting up a remote MLFlow server using "DAGSHUB"
+We will setup a remote server to trackthe experiments, instead of local server 
+
+4> Login to dagshub using Github and Connect the project repository to which you wanna experiment with
+5> run pip install dagshub, in the terminal
+6> create a new file src/file2.py and copy everythig from file1.py
+7> add the script in file2.py provided in dagshub repository to set tracking uri of the dagshub server and initilize the dagshub server
+8> run file2.py
+    - it will pen MLFlow UI in a remote server provided by dagshub
+    - the remote server configuration can be shared with other collaborators.
+
+### Autologging using MLFlow
+MLFlow have the ability log important components of the projects autmatically,
+This feature is called MLFlow Autologging.
+9> Create a new file src/autologging_demo.py and copy-paste code from file1.py
+10> just add the follwing code:
+    - mlflow.autolog()
