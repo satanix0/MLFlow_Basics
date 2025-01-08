@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/Downloads/MLFlow_Basics/mlruns/244140955479104698/dcc87228541c42328257f015b7fc27f3/artifacts
+end_time: 1736338477277
+entry_point_name: ''
+experiment_id: '244140955479104698'
+lifecycle_stage: active
+run_id: dcc87228541c42328257f015b7fc27f3
+run_name: silent-elk-894
+run_uuid: dcc87228541c42328257f015b7fc27f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736338465734
+status: 3
+tags: []
+user_id: Piyush

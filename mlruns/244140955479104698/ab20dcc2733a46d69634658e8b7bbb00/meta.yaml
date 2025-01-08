@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/Downloads/MLFlow_Basics/mlruns/244140955479104698/ab20dcc2733a46d69634658e8b7bbb00/artifacts
+end_time: 1736330480380
+entry_point_name: ''
+experiment_id: '244140955479104698'
+lifecycle_stage: active
+run_id: ab20dcc2733a46d69634658e8b7bbb00
+run_name: peaceful-fly-320
+run_uuid: ab20dcc2733a46d69634658e8b7bbb00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736330480230
+status: 3
+tags: []
+user_id: Piyush

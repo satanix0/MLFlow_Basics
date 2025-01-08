@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/Downloads/MLFlow_Basics/mlruns/244140955479104698/307238fe65f744728d33b279cede3e6f/artifacts
+end_time: 1736321109398
+entry_point_name: ''
+experiment_id: '244140955479104698'
+lifecycle_stage: active
+run_id: 307238fe65f744728d33b279cede3e6f
+run_name: rebellious-toad-542
+run_uuid: 307238fe65f744728d33b279cede3e6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736321093307
+status: 3
+tags: []
+user_id: Piyush

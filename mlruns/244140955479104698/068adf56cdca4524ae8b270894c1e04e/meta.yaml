@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/Downloads/MLFlow_Basics/mlruns/244140955479104698/068adf56cdca4524ae8b270894c1e04e/artifacts
+end_time: 1736330481303
+entry_point_name: ''
+experiment_id: '244140955479104698'
+lifecycle_stage: active
+run_id: 068adf56cdca4524ae8b270894c1e04e
+run_name: charming-worm-930
+run_uuid: 068adf56cdca4524ae8b270894c1e04e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736330481221
+status: 3
+tags: []
+user_id: Piyush

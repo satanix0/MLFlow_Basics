@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/piyus/Downloads/MLFlow_Basics/mlruns/244140955479104698
+creation_time: 1736321015166
+experiment_id: '244140955479104698'
+last_update_time: 1736321015166
+lifecycle_stage: active
+name: breast-cancer-rf-hp

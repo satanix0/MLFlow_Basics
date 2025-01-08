@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/Downloads/MLFlow_Basics/mlruns/244140955479104698/5f36c39efb5d4ee89b8dc3c40f3c7e4c/artifacts
+end_time: 1736338470555
+entry_point_name: ''
+experiment_id: '244140955479104698'
+lifecycle_stage: active
+run_id: 5f36c39efb5d4ee89b8dc3c40f3c7e4c
+run_name: glamorous-fox-693
+run_uuid: 5f36c39efb5d4ee89b8dc3c40f3c7e4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736338470513
+status: 3
+tags: []
+user_id: Piyush

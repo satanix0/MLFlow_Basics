@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/Downloads/MLFlow_Basics/mlruns/244140955479104698/6f896e81761b4458ba464a16ada9ca86/artifacts
+end_time: 1736338470659
+entry_point_name: ''
+experiment_id: '244140955479104698'
+lifecycle_stage: active
+run_id: 6f896e81761b4458ba464a16ada9ca86
+run_name: magnificent-shad-185
+run_uuid: 6f896e81761b4458ba464a16ada9ca86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736338470610
+status: 3
+tags: []
+user_id: Piyush

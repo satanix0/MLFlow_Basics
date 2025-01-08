@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/Downloads/MLFlow_Basics/mlruns/244140955479104698/4915babee44843739858f82e1bb01837/artifacts
+end_time: 1736330481213
+entry_point_name: ''
+experiment_id: '244140955479104698'
+lifecycle_stage: active
+run_id: 4915babee44843739858f82e1bb01837
+run_name: bold-cat-92
+run_uuid: 4915babee44843739858f82e1bb01837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736330481116
+status: 3
+tags: []
+user_id: Piyush

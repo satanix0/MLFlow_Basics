@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/Downloads/MLFlow_Basics/mlruns/244140955479104698/74adb0103d1e44dbba8b53cbae651928/artifacts
+end_time: 1736338470458
+entry_point_name: ''
+experiment_id: '244140955479104698'
+lifecycle_stage: active
+run_id: 74adb0103d1e44dbba8b53cbae651928
+run_name: luxuriant-auk-736
+run_uuid: 74adb0103d1e44dbba8b53cbae651928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736338470403
+status: 3
+tags: []
+user_id: Piyush

@@ -45,12 +45,12 @@ with mlflow.start_run() as parent:
     grid_search.fit(X_train, y_train)
 
     # log all the child runs
-    for i in range(len(grid_search.cv_results_['params'])):
+    # for i in range(len(grid_search.cv_results_['params'])):
 
-        with mlflow.start_run(nested=True) as child:
-            mlflow.log_params(grid_search.cv_results_["params"][i])
-            mlflow.log_metric("accuracy", grid_search.cv_results_[
-                              "mean_test_score"][i])
+    #     with mlflow.start_run(nested=True) as child:
+    #         mlflow.log_params(grid_search.cv_results_["params"][i])
+    #         mlflow.log_metric("accuracy", grid_search.cv_results_[
+    #                           "mean_test_score"][i])
 
     # Displaying the best parameters and the best score
     best_params = grid_search.best_params_
@@ -66,7 +66,6 @@ with mlflow.start_run() as parent:
     train_df = X_train.copy()
     train_df['target'] = y_train
 
-    # mlflow uses its own data structure to store train and test
     train_df = mlflow.data.from_pandas(train_df)
     mlflow.log_input(train_df, "training")
 

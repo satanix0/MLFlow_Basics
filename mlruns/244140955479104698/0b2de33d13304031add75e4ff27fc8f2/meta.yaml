@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/Downloads/MLFlow_Basics/mlruns/244140955479104698/0b2de33d13304031add75e4ff27fc8f2/artifacts
+end_time: 1736338470260
+entry_point_name: ''
+experiment_id: '244140955479104698'
+lifecycle_stage: active
+run_id: 0b2de33d13304031add75e4ff27fc8f2
+run_name: resilient-carp-725
+run_uuid: 0b2de33d13304031add75e4ff27fc8f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736338470228
+status: 3
+tags: []
+user_id: Piyush
